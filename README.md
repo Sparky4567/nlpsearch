@@ -2,6 +2,10 @@
 
 -   It's a simple plugin which lets you to search your vault by using phrases and keywords.
 
+Works with English language only.
+
+Based on https://www.npmjs.com/package/compromise library
+
 ## Usage
 
 -   Press CTRL + P to open command menu.
