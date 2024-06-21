@@ -14,3 +14,13 @@
 All matching results will be displayed within a popup modal.
 
 A note will be opened by clicking the left mouse button on a result.
+
+## Installation
+
+```
+git clone https://github.com/Sparky4567/nlpsearch.git ./obsidian/plugins/nlpsearch
+cd nlpsearch
+npm install --save
+npm run build
+
+```
