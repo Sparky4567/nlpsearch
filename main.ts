@@ -123,7 +123,6 @@ class PromptModal extends Modal {
 
 		const input = contentEl.createEl("input", { type: "text" });
 		input.style.width = "100%";
-		input.style.marginTop = "1rem";
 		input.style.marginBottom = "1rem";
 
 		input.addEventListener("keydown", (event) => {
